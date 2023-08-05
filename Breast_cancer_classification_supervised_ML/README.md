@@ -4,7 +4,8 @@ Wisconsin Breast Cancer dataset (cancer, for short) records clinical measurement
 
 I have trained all the well known supervised ML classifiers such as: k-neighbors, logistic regression classifier, decision tree classifier, random forest classifier, gradient boosted classifier, linear support classifier and a neural network classfier. All these models were evaulated using accuracy and the import features learned by them are plotted.
 
-<img width="725" alt="Screen Shot 2023-07-27 at 5 07 30 PM" src="https://github.com/mayank8893/Breast_cancer_classification_supervised_ML/assets/69361645/869c8f85-4731-4317-965e-f25c9a325943">
-<img width="737" alt="Screen Shot 2023-07-27 at 5 07 45 PM" src="https://github.com/mayank8893/Breast_cancer_classification_supervised_ML/assets/69361645/6d6f0d2e-7e3d-4877-b07a-1369dd9251e7">
-<img width="923" alt="Screen Shot 2023-07-27 at 5 07 56 PM" src="https://github.com/mayank8893/Breast_cancer_classification_supervised_ML/assets/69361645/1e5f53ae-beef-444c-b8e0-44f8029604bf">
-<img width="1180" alt="Screen Shot 2023-07-27 at 5 08 10 PM" src="https://github.com/mayank8893/Breast_cancer_classification_supervised_ML/assets/69361645/6767b7ef-de79-427c-a014-8579720c302d">
+
+<img width="726" alt="Screen Shot 2023-08-05 at 9 52 20 AM" src="https://github.com/mayank8893/Data_Science_and_ML_Projects/assets/69361645/ac33827b-c3c2-40bf-bb82-01f9528149b9">
+<img width="710" alt="Screen Shot 2023-08-05 at 9 52 27 AM" src="https://github.com/mayank8893/Data_Science_and_ML_Projects/assets/69361645/464952d9-8f32-4ec8-81da-43be0d0b0b22">
+<img width="1154" alt="Screen Shot 2023-08-05 at 9 52 51 AM" src="https://github.com/mayank8893/Data_Science_and_ML_Projects/assets/69361645/968535f7-8ebc-4de2-bbbe-9313ab4a5547">
+<img width="873" alt="Screen Shot 2023-08-05 at 9 52 40 AM" src="https://github.com/mayank8893/Data_Science_and_ML_Projects/assets/69361645/89f9d5f4-1d5d-440e-a3bc-f628f84641f9">

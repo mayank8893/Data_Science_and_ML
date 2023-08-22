@@ -3,4 +3,5 @@ In this project, I have tried to predict the NBA MVP. My ML algorithm predicts t
 
 
 
-![ezgif-1-b4597a27c1](https://github.com/mayank8893/NBA_MVP_Prediction/assets/69361645/bd58bca0-0951-472e-9b40-756dadc540d0)
+
+![ezgif-1-0f76cce2b7](https://github.com/mayank8893/Data_Science_and_ML_Projects/assets/69361645/1d7eb355-2a8a-4e5a-a339-3e716f8b264b)

@@ -5,6 +5,7 @@ For this project we will use a dataset of movie reviews from the IMDb (Internet 
 The data is first loaded and tokenized using count vectorizer. The data is then cleaned to remove stopwords. The number of tokens is reduced by taking only tokens that appear in atleast five documents. The data is then rescaled using tf-idf and a logistric regression model is then trained on its training set and predictions made on the test set. The most and least important features learned by the model are then plotted.
 
 To improve upon the model, bag of wordss representation is then used.
-![Screenshot 2023-07-27 at 9 16 08 AM](https://github.com/mayank8893/IMDb_movie_review_sentiment_analysis_using_NLP/assets/69361645/bd87702f-c406-4423-9e34-66ee21ff3e19)
 
-![Screenshot 2023-07-27 at 9 16 34 AM](https://github.com/mayank8893/IMDb_movie_review_sentiment_analysis_using_NLP/assets/69361645/90761419-c98f-4424-bb7f-c7fad433ab55)
+
+<img width="889" alt="Screen Shot 2023-08-22 at 1 41 50 PM" src="https://github.com/mayank8893/Data_Science_and_ML_Projects/assets/69361645/d0b63361-a498-42bf-82f1-03da896612d6">
+<img width="588" alt="Screen Shot 2023-08-22 at 1 41 56 PM" src="https://github.com/mayank8893/Data_Science_and_ML_Projects/assets/69361645/e917f941-18a5-405a-acaf-dd78ba79396b">
